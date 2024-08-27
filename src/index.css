@@ -3,6 +3,16 @@
   padding: 0;
   box-sizing: border-box;
   font-family: "Playfair", serif;
+  /* --bs-body-bg: #8CA0D7 !important;
+  --bs-body-bg: #283339 !important;
+  --bs-body-bg: #24243F !important;
+  --bs-body-bg: #031633 !important;
+  --bs-body-bg: #0D001E !important;
+  --bs-body-bg: #00072D !important;
+  --bs-body-bg: #00072F !important;
+  --bs-body-bg: #070016 !important; */
+  /* --bs-btn-line-height: 50px;
+  --bs-btn-font-size: 3rem; */
 }
 
 html {

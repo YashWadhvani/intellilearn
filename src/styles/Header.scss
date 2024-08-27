@@ -1,6 +1,11 @@
 .offcanvas {
   --bs-offcanvas-width: 50rem;
   --bs-border-width: 0;
+  .offcanvas-header {
+    button {
+        font-size: 2em;
+    }
+  }
 }
 
 .container-fluid {

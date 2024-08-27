@@ -3,7 +3,7 @@ import Container from "react-bootstrap/Container";
 import Nav from "react-bootstrap/Nav";
 import Navbar from "react-bootstrap/Navbar";
 import Offcanvas from "react-bootstrap/Offcanvas";
-import Logo from "../assets/logo.png";
+import Logo from "../assets/IntelliLearn.png";
 import "../styles/Header.scss";
 
 function Header() {
